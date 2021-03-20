@@ -1,0 +1,17 @@
+body{
+    background-image: url("../img/fondo2.png");
+}
+div{
+    width: 40%;
+    margin: auto;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    margin-top: 10%;
+    border-radius: 8px;
+    border: 1px solid white;
+}
+#logo{
+    width: 15%;
+    background-color: black;
+}

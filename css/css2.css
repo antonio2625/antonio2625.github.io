@@ -76,4 +76,12 @@ th, td{
     border-radius: 5px;
     color: white;
     margin-bottom: 2%;
+    width: 100%;
+}
+.boton{
+    background-color: rgba(0, 0, 0, 0.507);
+    border: 1px red solid;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 2%;
 }
